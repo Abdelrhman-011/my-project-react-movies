@@ -1,0 +1,19 @@
+.perantdiv::after{
+    content: "";
+    position: absolute;
+    width: 100%;
+   height:100% ;
+    background: rgb(0, 0, 0,60%);
+    top: 0;
+}
+
+.perantdiv{
+    background-size: cover;
+           
+            position: relative;
+}
+
+.zedindex{
+  
+    z-index: 5000;
+}
